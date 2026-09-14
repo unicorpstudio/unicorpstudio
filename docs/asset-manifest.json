@@ -1,0 +1,45 @@
+{
+  "source": "https://www.figma.com/design/vA7iweoBTGUX5n7iy4ccFT/Unicorp.Studio?node-id=1786-1452",
+  "assets": [
+    {
+      "file": "public/brand/arrow-diagonal.svg",
+      "bytes": 342,
+      "sha256": "0f6ab8ab325dfaa5f9a26f12eca5491c179208e083246c5d9a3316e496a74bc0"
+    },
+    {
+      "file": "public/brand/arrow-right.svg",
+      "bytes": 1698,
+      "sha256": "3c37e7e506b62677dd1f5d06ae6f70cab2318cf409ae40ac0b77771e67381737"
+    },
+    {
+      "file": "public/brand/check.svg",
+      "bytes": 834,
+      "sha256": "5f6ca828b7fb9784f1739b4db5ffa52503f78d6a02d43bf04d252fc1def93045"
+    },
+    {
+      "file": "public/brand/favicon.svg",
+      "bytes": 736,
+      "sha256": "b35b25b649b3b889c08e5d1c501e76df16adef9abb284c96293a0b9b7618e09f"
+    },
+    {
+      "file": "public/brand/figma.svg",
+      "bytes": 1124,
+      "sha256": "f0300bd8a725ffdb252cecfa2a474e0d9116e610759388f8e47c8b0e9eb497a9"
+    },
+    {
+      "file": "public/brand/logo-symbol.svg",
+      "bytes": 2985,
+      "sha256": "d8828d41714ebb90fedf4f85d4c525c925ecf1a5c8b7566414940a03f9d43e2d"
+    },
+    {
+      "file": "public/brand/logo-wordmark.svg",
+      "bytes": 6388,
+      "sha256": "7860d4c367aac7d7bdeec6fddae0a4a9697e3e813682a7cb1d2c8f2fa0ffdfe9"
+    },
+    {
+      "file": "public/images/e01-exploration.webp",
+      "bytes": 114850,
+      "sha256": "4f3d94b55d9450388d8625e5960e3a855b3069b461358d2a1ef5764135a083e2"
+    }
+  ]
+}
